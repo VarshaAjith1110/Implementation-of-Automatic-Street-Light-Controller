@@ -70,7 +70,8 @@ delay(5000);
 ![image](https://github.com/VarshaAjith1110/Implementation-of-Automatic-Street-Light-Controller/assets/94222288/ca5a2e7f-0d56-4c77-8a2a-4f273a68f874)
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/VarshaAjith1110/Implementation-of-Automatic-Street-Light-Controller/assets/94222288/e5ad3ff9-a159-41ca-b75f-fdd1907984a2)
+
 
 ## RESULT:
 Thus the Automatic Street Light controller was implemented using Arduino UNO controller.
